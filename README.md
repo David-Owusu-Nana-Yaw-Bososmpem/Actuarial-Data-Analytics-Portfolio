@@ -103,5 +103,3 @@ I am particularly interested in applying quantitative skills, programming, and a
 **LinkedIn:** [David Bosompem](https://www.linkedin.com/in/david-bosompem-3683b5227/)
 
 ---
-
-*This portfolio contains selected academic, independent, competition, and virtual professional projects. Individual repositories provide access to the relevant project files and supporting documentation.*
